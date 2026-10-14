@@ -29,7 +29,7 @@
       flake = false;
     };
     blockchain = {
-      url = "github:logos-blockchain/logos-blockchain-module/0.3.1";
+      url = "github:logos-blockchain/logos-blockchain-module/0.3.2";
       inputs.logos-module-builder.follows = "module-builder";
     };
     module-builder = {

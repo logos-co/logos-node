@@ -12,7 +12,7 @@ Run a complete Logos node (testnet v0.3) with one command:
 nix run github:logos-co/logos-node
 ```
 
-Includes Blockchain 0.3.1, Storage 3.0.2, Delivery 0.3.2 and logosctl 0.3.2.
+Includes Blockchain 0.3.2, Storage 3.0.2, Delivery 0.3.2 and logosctl 0.3.2.
 Nix supplies Python and the other runtime dependencies.
 Supports Linux x86_64; validated on Debian 13.
 

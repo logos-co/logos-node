@@ -96,7 +96,7 @@
       };
     };
     delivery = {
-      url = "github:logos-co/logos-delivery-module/v0.3.2";
+      url = "github:logos-co/logos-delivery-module/v0.4.0";
       inputs = {
         liblogos_rln_module.inputs = {
           liblogos_lez_rln_module.inputs.logos-module-builder.follows = "delivery/liblogos_rln_module/logos-module-builder";

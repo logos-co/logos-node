@@ -8,16 +8,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1791886980,
-        "narHash": "sha256-/FV5LFuPlmR2Yi/NyC+S5B0ptYO0Qv2fjlpQKO9RysU=",
+        "lastModified": 1793358962,
+        "narHash": "sha256-rFCSdVG4Jtod/pgemTgnn3PfSZ9IotfQQkTm52TibxA=",
         "owner": "logos-blockchain",
         "repo": "logos-blockchain-module",
-        "rev": "559b421e81b9a53f90d9e0976cf63d20307b4473",
+        "rev": "b1eed5994eb289d0021c15e183cd170601334603",
         "type": "github"
       },
       "original": {
         "owner": "logos-blockchain",
-        "ref": "0.3.2",
+        "ref": "0.3.4",
         "repo": "logos-blockchain-module",
         "type": "github"
       }
@@ -176,16 +176,16 @@
         "nix-bundle-lgx": "nix-bundle-lgx_2"
       },
       "locked": {
-        "lastModified": 1792006332,
-        "narHash": "sha256-bg2bJCkiRjAmnO+ImMmZzEJqOtw+oa0yRCDJQZtz2d0=",
+        "lastModified": 1792016439,
+        "narHash": "sha256-9BWWUL5ZIprI8T3LNJ5FJY4xIfLW2PUwbZ65+VLx5/A=",
         "owner": "logos-co",
         "repo": "logos-delivery-module",
-        "rev": "1e1fb56aaf4bb6b80e8d1fef043ce64eba6bd28f",
+        "rev": "1d995bda3128e13f21ed17e0f925f4c04d2bd117",
         "type": "github"
       },
       "original": {
         "owner": "logos-co",
-        "ref": "v0.4.0",
+        "ref": "v0.3.3",
         "repo": "logos-delivery-module",
         "type": "github"
       }
@@ -331,16 +331,16 @@
         "rust-rapidsnark": "rust-rapidsnark"
       },
       "locked": {
-        "lastModified": 1791882483,
-        "narHash": "sha256-hJHlFUTjDk4DkolARBq+epzrgLu3wFaUvEsSHOtkcaI=",
+        "lastModified": 1793358459,
+        "narHash": "sha256-aiFPdBHrTJWt0C4374kXjEyRdtFwAnIytWuKZfdFmFQ=",
         "owner": "logos-blockchain",
         "repo": "logos-blockchain",
-        "rev": "198e3787d7d1fd9b92a183a7feb88db15abce346",
+        "rev": "f7ab0323346d36840660908be049d5a62c905516",
         "type": "github"
       },
       "original": {
         "owner": "logos-blockchain",
-        "ref": "0.3.2",
+        "ref": "0.3.4",
         "repo": "logos-blockchain",
         "type": "github"
       }
